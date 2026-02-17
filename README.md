@@ -43,4 +43,4 @@ Figma • HTML • CSS • JavaScript • React • Python • Git • Vercel �
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RonNY125-coder&show_icons=true&theme=github_dark)
+
